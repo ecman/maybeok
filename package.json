@@ -1,0 +1,37 @@
+{
+  "name": "okmaybe",
+  "version": "1.0.0",
+  "description": "Delgate Promise resolution",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecman/okmaybe.git"
+  },
+  "keywords": [
+    "delgation",
+    "promises",
+    "promise",
+    "promise",
+    "resolution",
+    "scope",
+    "ecman"
+  ],
+  "author": "ecman <its.ec@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecman/okmaybe/issues"
+  },
+  "homepage": "https://github.com/ecman/okmaybe#readme",
+  "engines": {
+    "node": ">=0.12.18"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
