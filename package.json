@@ -1,7 +1,7 @@
 {
   "name": "okmaybe",
-  "version": "1.0.2",
-  "description": "Delegate Promise resolution",
+  "version": "1.0.3",
+  "description": "Deprecated",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,13 +14,6 @@
     "url": "git+https://github.com/ecman/okmaybe.git"
   },
   "keywords": [
-    "delgation",
-    "promises",
-    "promise",
-    "promise",
-    "resolution",
-    "scope",
-    "ecman"
   ],
   "author": "ecman <its.ec@outlook.com>",
   "license": "MIT",
