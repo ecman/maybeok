@@ -1,7 +1,7 @@
 {
   "name": "okmaybe",
-  "version": "1.0.0",
-  "description": "Delgate Promise resolution",
+  "version": "1.0.1",
+  "description": "Delegate Promise resolution",
   "main": "index.js",
   "directories": {
     "test": "test"
